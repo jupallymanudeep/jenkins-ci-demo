@@ -5,3 +5,4 @@ echo "Auto build triggered SUCCESSFULLY"
 date
 
 echo "CD CHESANU ROYY"
+echo "hi mama"
