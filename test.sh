@@ -2,3 +2,4 @@
 echo "Auto build triggered from GitHub"
 date
 echo "Auto build triggered SUCCESSFULLY"
+date
